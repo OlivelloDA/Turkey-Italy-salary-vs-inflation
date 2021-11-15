@@ -4,4 +4,4 @@
 
 - Predictions of future inflations.
 
--Analysis of salaries increase and PPP per capita variation.
+- Analysis of salaries increase and PPP per capita variation.
