@@ -1,4 +1,5 @@
 # Turkey-Italy-salary-vs-inflation
+data origin: World Bank
 
 - Analysis of Turkey and Italian CPI inflation from 1998 to 2020.
 
